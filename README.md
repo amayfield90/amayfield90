@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @amayfield90
-- 👀 I’m interested in ... Programming, Gardening, Jungian Analytical Psychology/MBTI #INTJ
+- 👀 I’m interested in ... Programming, Gardening, Jungian Analytical Psychology/MBTI #INFJ
 - 🌱 I’m currently learning ... Python with APIs
 - 💞️ I’m looking to collaborate on ... Not sure yet!
-- 📫 How to reach me ... good luck!
+- 📫 How to reach me ... email or LinkedIn
 
 <!---
 amayfield90/amayfield90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
